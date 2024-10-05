@@ -1,5 +1,7 @@
 Erika Hooper
+
 ehooper001@odu.edu
+
 https://hooper625.github.io/
 
 # DataScience620
