@@ -11,4 +11,4 @@ Description: These datasets provide detailed SOL test results at the district le
 
 End Goal:
 
-Correlation Analysis: This project aims to examine the relationship between various socioeconomic factors and SOL pass rates across subjects and school divisions. By identifying key socioeconomic variables that impact student performance, the analysis seeks to uncover trends and disparities among districts.
+Correlation Analysis: The objective of this project is to explore the correlation between poverty, household income, and educational attainment levels, and how they influence SOL pass rates across subjects and school divisions. By focusing on key socioeconomic variables, we aim to identify trends and disparities in performance across different districts, with an emphasis on uncovering the impact of poverty and income on educational outcomes.
