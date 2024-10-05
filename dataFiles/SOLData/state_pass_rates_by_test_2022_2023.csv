@@ -1,0 +1,48 @@
+LEVEL,Subject,Grade,Test,2020-2021 Pass Rate,2021-2022 Pass Rate,2022-2023 Pass Rate,2020-2021 Adv Pass Rate,2021-2022 Adv Pass Rate,2022-2023 Adv Pass Rate
+STATE,English: Reading,Gr 3,English Reading,61.0,68.0,66.0,10.0,11.0,11.0
+STATE,English: Reading,Gr 4,English Reading,68.0,72.0,73.0,14.0,15.0,15.0
+STATE,English: Reading,Gr 5,English Reading,66.0,72.0,71.0,11.0,10.0,10.0
+STATE,English: Reading,Gr 6,English Reading,69.0,70.0,71.0,14.0,14.0,13.0
+STATE,English: Reading,Gr 7,English Reading,71.0,72.0,70.0,13.0,12.0,12.0
+STATE,English: Reading,Gr 8,English Reading,69.0,72.0,71.0,13.0,12.0,12.0
+STATE,English: Reading,End of Course,English Reading,81.0,85.0,85.0,22.0,27.0,26.0
+STATE,English: Writing,Gr 8,Writing,54.0,57.0,55.0,12.0,13.0,13.0
+STATE,English: Writing,End of Course,Writing,76.0,74.0,76.0,23.0,23.0,20.0
+STATE,History and Social Sciences,Gr 5,History,84.0,,,47.0,,
+STATE,History and Social Sciences,Gr 8,History,79.0,,,37.0,,
+STATE,History and Social Sciences,Content Specific,Civics & Econ,61.0,70.0,73.0,12.0,19.0,18.0
+STATE,History and Social Sciences,Content Specific,VA Studies,53.0,66.0,69.0,16.0,24.0,24.0
+STATE,History and Social Sciences,End of Course,Geography,58.0,66.0,67.0,3.0,6.0,5.0
+STATE,History and Social Sciences,End of Course,VA & US History,29.0,38.0,38.0,2.0,3.0,2.0
+STATE,History and Social Sciences,End of Course,World History I,53.0,66.0,66.0,6.0,10.0,10.0
+STATE,History and Social Sciences,End of Course,World History II,44.0,48.0,30.0,6.0,7.0,4.0
+STATE,Mathematics,Gr 3,Mathematics,54.0,67.0,69.0,8.0,10.0,12.0
+STATE,Mathematics,Gr 4,Mathematics,56.0,66.0,70.0,9.0,12.0,13.0
+STATE,Mathematics,Gr 5,Mathematics,51.0,64.0,67.0,8.0,11.0,11.0
+STATE,Mathematics,Gr 6,Mathematics,45.0,57.0,61.0,5.0,8.0,8.0
+STATE,Mathematics,Gr 7,Mathematics,45.0,55.0,59.0,7.0,7.0,8.0
+STATE,Mathematics,Gr 8,Mathematics,43.0,57.0,60.0,3.0,5.0,5.0
+STATE,Mathematics,End of Course,Algebra I,63.0,80.0,82.0,6.0,9.0,10.0
+STATE,Mathematics,End of Course,Algebra II,78.0,86.0,86.0,12.0,16.0,19.0
+STATE,Mathematics,End of Course,Geometry,73.0,80.0,78.0,7.0,12.0,12.0
+STATE,Mathematics,End of Course,Mathematics,,63.0,71.0,,30.0,27.0
+STATE,Remote English: Reading,Gr 3,English Reading,67.0,,,17.0,,
+STATE,Remote English: Reading,Gr 4,English Reading,62.0,,,12.0,,
+STATE,Remote English: Reading,Gr 5,English Reading,60.0,,,8.0,,
+STATE,Remote English: Reading,Gr 6,English Reading,74.0,,,18.0,,
+STATE,Remote English: Reading,Gr 7,English Reading,67.0,,,15.0,,
+STATE,Remote English: Reading,Gr 8,English Reading,67.0,,,10.0,,
+STATE,Remote Mathematics,Gr 3,Mathematics,57.0,,,7.0,,
+STATE,Remote Mathematics,Gr 4,Mathematics,58.0,,,9.0,,
+STATE,Remote Mathematics,Gr 5,Mathematics,52.0,,,7.0,,
+STATE,Remote Mathematics,Gr 6,Mathematics,52.0,,,5.0,,
+STATE,Remote Mathematics,Gr 7,Mathematics,50.0,,,4.0,,
+STATE,Remote Mathematics,Gr 8,Mathematics,50.0,,,2.0,,
+STATE,Remote Science,Gr 5,Science,54.0,,,9.0,,
+STATE,Remote Science,Gr 8,Science,69.0,,,8.0,,
+STATE,Science,Gr 5,Science,50.0,61.0,66.0,10.0,13.0,15.0
+STATE,Science,Gr 8,Science,58.0,61.0,62.0,6.0,6.0,7.0
+STATE,Science,End of Course,Biology,66.0,70.0,72.0,8.0,10.0,9.0
+STATE,Science,End of Course,Chemistry,52.0,64.0,37.0,10.0,12.0,5.0
+STATE,Science,End of Course,Earth Science,67.0,72.0,67.0,5.0,7.0,6.0
+STATE,Science,End of Course,Science,,75.0,76.0,,49.0,42.0
