@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80b36a59-c209-43ac-baba-5f7f509c1d14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CleanSOLData.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanSOLData.py" beforeDir="false" afterPath="$PROJECT_DIR$/CleanSOLData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.CleanSOLData">
+  <component name="RunManager" selected="Python.main">
     <configuration name="CleanEduByHouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hooper_CS620_DataProject" />
       <option name="ENV_FILES" value="" />
@@ -155,10 +155,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.CleanSOLData" />
         <item itemvalue="Python.CleanPovertyData" />
         <item itemvalue="Python.CleanEduByHouse" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728138253101</updated>
       <workItem from="1728138254164" duration="9914000" />
-      <workItem from="1728151952855" duration="7373000" />
+      <workItem from="1728151952855" duration="8658000" />
     </task>
     <servers />
   </component>
