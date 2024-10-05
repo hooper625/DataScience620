@@ -7,6 +7,7 @@
     <list default="true" id="80b36a59-c209-43ac-baba-5f7f509c1d14" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CleanSOLData.py" beforeDir="false" afterPath="$PROJECT_DIR$/CleanSOLData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataFiles/SOLData/Division_Test_by_level_2023_2024 (1).csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.CleanSOLData">
     <configuration name="CleanEduByHouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hooper_CS620_DataProject" />
       <option name="ENV_FILES" value="" />
@@ -155,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.CleanSOLData" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.CleanPovertyData" />
         <item itemvalue="Python.CleanEduByHouse" />
       </list>
@@ -179,7 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728138253101</updated>
       <workItem from="1728138254164" duration="9914000" />
-      <workItem from="1728151952855" duration="8658000" />
+      <workItem from="1728151952855" duration="9693000" />
     </task>
     <servers />
   </component>
@@ -189,7 +190,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hooper_CS620_DataProject$CleanPovertyData.coverage" NAME="CleanPovertyData Coverage Results" MODIFIED="1728158281139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Hooper_CS620_DataProject$CleanSOLData.coverage" NAME="CleanSOLData Coverage Results" MODIFIED="1728159543890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hooper_CS620_DataProject$main.coverage" NAME="main Coverage Results" MODIFIED="1728152365463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Hooper_CS620_DataProject$CleanEduByHouse.coverage" NAME="CleanEduByHouse Coverage Results" MODIFIED="1728156955149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hooper_CS620_DataProject$main.coverage" NAME="main Coverage Results" MODIFIED="1728160885472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
