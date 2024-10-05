@@ -6,3 +6,8 @@ df = pd.read_csv(excel_file)
 
 #Replace missing values
 df.replace({'-':np.nan, '(X)': np.nan, "N": np.nan}, inplace=True)
+
+cleaned_df = "Poverty_Status_by_Education_Household.csv"
+df.to_csv(cleaned_df)
+
+print(df.head())

@@ -3,7 +3,7 @@
 Notes
 =============================================================================================================
 
-Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, the decennial census is the official source of population totals for April 1st of each decennial year. In between censuses, the Census Bureau's Population Estimates Program produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units and the group quarters population for states and counties.<br/><br/>
+Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, the decennial census is the official source of population totals for April 1st of each decennial year. In between censuses, the Census Bureau's Population Estimates Program produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units for states and counties.<br/><br/>
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -11,11 +11,7 @@ Information about the American Community Survey (ACS) can be found on the <a hre
 
 -------------------------------------------------------------------------------------------------------------
 
-Source: U.S. Census Bureau, 2023 American Community Survey 1-Year Estimates<br/><br/>
-
--------------------------------------------------------------------------------------------------------------
-
-ACS data generally reflect the geographic boundaries of legal and statistical areas as of January 1 of the estimate year. For more information, see <a href=\"https://www.census.gov/programs-surveys/acs/geography-acs/geography-boundaries-by-year.html\"> Geography Boundaries by Year<\/a>.<br/><br/>
+Source: U.S. Census Bureau, 2022 American Community Survey 1-Year Estimates<br/><br/>
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -23,7 +19,11 @@ Data are based on a sample and are subject to sampling variability. The degree o
 
 -------------------------------------------------------------------------------------------------------------
 
-Users must consider potential differences in geographic boundaries, questionnaire content or coding, or other methodological issues when comparing ACS data from different years. Statistically significant differences shown in ACS Comparison Profiles, or in data users' own analysis, may be the result of these differences and thus might not necessarily reflect changes to the social, economic, housing, or demographic characteristics being compared. For more information, see <a href=\"https://www.census.gov/programs-surveys/acs/guidance/comparing-acs-data.html\"> Comparing ACS Data<\/a>.<br/><br/>
+The categories for relationship to householder were revised in 2019. For more information see <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2020-02.html\">Revisions to the Relationship to Household item<\/a>.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+The 2022 American Community Survey (ACS) data generally reflect the March 2020 Office of Management and Budget (OMB) delineations of metropolitan and micropolitan statistical areas. In certain instances the names, codes, and boundaries of the principal cities shown in ACS tables may differ from the OMB delineations due to differences in the effective dates of the geographic entities.<br/><br/>
 
 -------------------------------------------------------------------------------------------------------------
 
