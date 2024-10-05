@@ -1,0 +1,89 @@
+Level,Subject,Student group,2020-2021 Pass Rate,2021-2022 Pass Rate,2022-2023 Pass Rate
+State,English: Reading,All Students,69,73.0,73.0
+State,English: Writing,All Students,69,65.0,65.0
+State,History and Social Sciences,All Students,54,66.0,65.0
+State,Mathematics,All Students,54,66.0,69.0
+State,Remote Mathematics,All Students,54,,
+State,Remote Science,All Students,60,,
+State,Remote English: Reading,All Students,66,,
+State,Science,All Students,59,65.0,67.0
+State,English: Reading,Asian,85,88.0,87.0
+State,English: Writing,Asian,88,88.0,86.0
+State,History and Social Sciences,Asian,76,87.0,86.0
+State,Mathematics,Asian,79,86.0,87.0
+State,Remote Science,Asian,83,,
+State,Science,Asian,80,84.0,84.0
+State,Remote Mathematics,Asian,82,,
+State,Remote English: Reading,Asian,85,,
+State,English: Reading,Black,54,60.0,60.0
+State,English: Writing,Black,53,47.0,49.0
+State,History and Social Sciences,Black,35,47.0,48.0
+State,Mathematics,Black,34,49.0,54.0
+State,Remote Science,Black,46,,
+State,Science,Black,39,46.0,49.0
+State,Remote Mathematics,Black,39,,
+State,Remote English: Reading,Black,53,,
+State,English: Reading,Economically Disadvantaged,54,59.0,59.0
+State,English: Writing,Economically Disadvantaged,53,49.0,49.0
+State,History and Social Sciences,Economically Disadvantaged,40,51.0,52.0
+State,Mathematics,Economically Disadvantaged,37,52.0,55.0
+State,Remote Mathematics,Economically Disadvantaged,41,,
+State,Remote Science,Economically Disadvantaged,47,,
+State,Science,Economically Disadvantaged,40,49.0,51.0
+State,Remote English: Reading,Economically Disadvantaged,54,,
+State,English: Reading,English Learners,24,32.0,32.0
+State,English: Writing,English Learners,19,18.0,19.0
+State,History and Social Sciences,English Learners,21,30.0,32.0
+State,Mathematics,English Learners,21,36.0,41.0
+State,Science,English Learners,12,20.0,25.0
+State,Remote English: Reading,English Learners,29,,
+State,Remote Mathematics,English Learners,30,,
+State,Remote Science,English Learners,22,,
+State,English: Reading,Female,72,76.0,75.0
+State,English: Writing,Female,75,71.0,71.0
+State,History and Social Sciences,Female,53,65.0,64.0
+State,Mathematics,Female,54,67.0,69.0
+State,Remote English: Reading,Female,69,,
+State,Science,Female,59,64.0,66.0
+State,Remote Mathematics,Female,54,,
+State,Remote Science,Female,60,,
+State,English: Reading,Hispanic,54,60.0,59.0
+State,English: Writing,Hispanic,60,56.0,56.0
+State,History and Social Sciences,Hispanic,45,56.0,55.0
+State,Mathematics,Hispanic,38,53.0,56.0
+State,Remote Mathematics,Hispanic,43,,
+State,Science,Hispanic,42,50.0,52.0
+State,Remote English: Reading,Hispanic,56,,
+State,Remote Science,Hispanic,51,,
+State,English: Reading,Male,67,71.0,70.0
+State,English: Writing,Male,63,59.0,58.0
+State,History and Social Sciences,Male,56,67.0,66.0
+State,Mathematics,Male,54,66.0,69.0
+State,Remote English: Reading,Male,63,,
+State,Remote Mathematics,Male,53,,
+State,Remote Science,Male,60,,
+State,Science,Male,60,66.0,67.0
+State,English: Reading,Multiple Races,74,78.0,77.0
+State,English: Writing,Multiple Races,71,69.0,68.0
+State,History and Social Sciences,Multiple Races,56,69.0,69.0
+State,Mathematics,Multiple Races,57,70.0,73.0
+State,Science,Multiple Races,63,71.0,72.0
+State,Remote Mathematics,Multiple Races,57,,
+State,Remote Science,Multiple Races,65,,
+State,Remote English: Reading,Multiple Races,72,,
+State,English: Reading,Students with Disabilities,40,43.0,44.0
+State,English: Writing,Students with Disabilities,35,24.0,24.0
+State,History and Social Sciences,Students with Disabilities,32,35.0,35.0
+State,Mathematics,Students with Disabilities,31,39.0,43.0
+State,Remote Science,Students with Disabilities,32,,
+State,Remote Mathematics,Students with Disabilities,34,,
+State,Remote English: Reading,Students with Disabilities,40,,
+State,Science,Students with Disabilities,31,36.0,38.0
+State,English: Reading,White,78,82.0,81.0
+State,English: Writing,White,75,73.0,73.0
+State,History and Social Sciences,White,65,76.0,76.0
+State,Mathematics,White,64,76.0,79.0
+State,Remote Mathematics,White,67,,
+State,Science,White,70,76.0,78.0
+State,Remote English: Reading,White,78,,
+State,Remote Science,White,74,,
